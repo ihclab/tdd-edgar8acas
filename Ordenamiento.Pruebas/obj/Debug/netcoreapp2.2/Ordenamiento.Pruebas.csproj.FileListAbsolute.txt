@@ -1,0 +1,17 @@
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.deps.json
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.runtimeconfig.json
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.runtimeconfig.dev.json
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.dll
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.pdb
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.dll
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.pdb
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.csprojAssemblyReference.cache
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.csproj.CoreCompileInputs.cache
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.AssemblyInfoInputs.cache
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.AssemblyInfo.cs
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.csproj.CopyComplete
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.dll
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.pdb

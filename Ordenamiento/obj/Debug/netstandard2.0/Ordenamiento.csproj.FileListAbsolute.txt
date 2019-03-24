@@ -1,0 +1,9 @@
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento/bin/Debug/netstandard2.0/Ordenamiento.deps.json
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento/bin/Debug/netstandard2.0/Ordenamiento.dll
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento/bin/Debug/netstandard2.0/Ordenamiento.pdb
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.csprojAssemblyReference.cache
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.csproj.CoreCompileInputs.cache
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.AssemblyInfoInputs.cache
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.AssemblyInfo.cs
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.dll
+/home/edgar8a/Documents/6to_semestre/Testeo/tdd/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.pdb
